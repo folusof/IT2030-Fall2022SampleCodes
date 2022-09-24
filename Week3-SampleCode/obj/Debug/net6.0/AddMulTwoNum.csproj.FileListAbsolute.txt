@@ -1,0 +1,52 @@
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\appsettings.Development.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\appsettings.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.staticwebassets.runtime.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.exe
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.deps.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.runtimeconfig.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.pdb
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.csproj.AssemblyReference.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.AssemblyInfoInputs.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.AssemblyInfo.cs
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.csproj.CoreCompileInputs.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.MvcApplicationPartsAssemblyInfo.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.RazorAssemblyInfo.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.RazorAssemblyInfo.cs
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\staticwebassets.build.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\staticwebassets.development.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\scopedcss\bundle\AddMulTwoNum.styles.css
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\scopedcss\projectbundle\AddMulTwoNum.bundle.scp.css
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\refint\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.pdb
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.genruntimeconfig.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\AddTwoNum\AddTwoNum\obj\Debug\net6.0\ref\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\appsettings.Development.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\appsettings.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.staticwebassets.runtime.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.exe
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.deps.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.runtimeconfig.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddMulTwoNum.pdb
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.csproj.AssemblyReference.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.AssemblyInfoInputs.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.AssemblyInfo.cs
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.csproj.CoreCompileInputs.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.MvcApplicationPartsAssemblyInfo.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.RazorAssemblyInfo.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.RazorAssemblyInfo.cs
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\staticwebassets.build.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\staticwebassets.development.json
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\scopedcss\bundle\AddMulTwoNum.styles.css
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\scopedcss\projectbundle\AddMulTwoNum.bundle.scp.css
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\refint\AddMulTwoNum.dll
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.pdb
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddMulTwoNum.genruntimeconfig.cache
+C:\murach\aspnet_core_mvc\MyLearningFiles\Projects using dot net 6.0\Upload - Sample Code Apps\AddTwoNum\AddTwoNum\obj\Debug\net6.0\ref\AddMulTwoNum.dll
