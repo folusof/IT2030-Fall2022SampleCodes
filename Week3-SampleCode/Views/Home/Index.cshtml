@@ -1,0 +1,32 @@
+﻿@model AddMulTwoNumModel
+@{
+    ViewData["Title"] = "Add and Multipy Two Numbers";
+}
+
+@*<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>*@
+<h1>Add and Multiply Calculator</h1>
+<form asp-action="Index" method="post">
+    <div asp-validation-summary="All"></div>
+    <div>
+        <label asp-for="Num1">First Number:</label>
+        <input asp-for="Num1" />
+    </div>
+    <div>
+        <label asp-for="Num2">Second Number:</label>
+        <input asp-for="Num2" />
+    </div>
+    <div>
+        <label>Sum: </label>
+        <input value="@ViewBag.Sum.ToString("C2")" readonly />
+    </div>
+
+    <div>
+        <label>Product: </label>
+        <input value="@ViewBag.Product.ToString("C2")" readonly>
+    </div>
+    <button type="submit">Calculate</button>
+    <a asp-action="Index">Clear</a>
+</form>
